@@ -19,5 +19,5 @@ The ExerService application is intended to work like an alarm clock that reminds
   1. Exersize Amounts (i.e., "10" pushups)
 * ExerService runs when the user logs in.
 * ExerService uses mysql, or an ini file for configuration settings.
-* ExerService runs in the background, so that the only regular interaction with the user is in response to prompts to exercise.
+* ExerService runs in the background, user may be asked to respond to prompts: "Do 10 Sit-ups", [Done], [Skip]
 * A GUI is provided to configure the service.
