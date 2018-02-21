@@ -17,3 +17,4 @@ The ExerService application is intended to work like an alarm clock that reminds
 ---
 * I wish the ExerService would run when the user logs in.
 * I'm thinking of using mysql for my configuration settings, but also am wondering if I should use an ini file (xml?)
+* The service would be running in the background, with a GUI for configuring the service.
