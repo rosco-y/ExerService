@@ -13,8 +13,10 @@ The ExerService application is intended to work like an alarm clock that reminds
 1. After the fifth hour, The cycles continues at the beginning of the exercize list.
 
 ---
-*Of course the alarm intervals, exercise types and amounts are user configurable.*
----
+* ExerService is user configurable with a provided GUI:
+  1. Alarm Intervals.
+  1. Exersize Types.
+  1. Exersize Amounts (i.e., "10" pushups)
 * The ExerService runs when the user logs in.
 * I'm thinking of using mysql, or an ini file for configuration settings.
 * The service runs in the background, so that the only regular interaction with the user is in response to prompts to exercise.
