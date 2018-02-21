@@ -2,7 +2,7 @@
 Alarm Clock to Remind Users to Exercise on Regular Intervals.
 --
 ## DESCRIPTION
-The ExerService application is intended to work like an alarm clock that reminds the user to take short exersize breaks during the day.  For Example:
+The ExerService application is intended to work like an alarm clock that reminds the user to take short exersize breaks during the day.  For Example, the alarm would be triggered using data describing the events in the following exercise list:
 
 ---
 # Exercise List
